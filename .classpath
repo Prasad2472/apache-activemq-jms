@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib2/activemq-broker-5.15.2.jar"/>
+	<classpathentry kind="lib" path="lib2/activemq-client-5.15.2.jar"/>
+	<classpathentry kind="lib" path="lib2/activemq-core-5.7.0.jar"/>
+	<classpathentry kind="lib" path="lib2/activemq-kahadb-store-5.15.2.jar"/>
+	<classpathentry kind="lib" path="lib2/geronimo-jms_1.1_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib2/geronimo-spec-j2ee-1.0-M1.jar"/>
+	<classpathentry kind="lib" path="lib2/geronimo-spec-jta-1.0-M1.jar"/>
+	<classpathentry kind="lib" path="lib2/javax.jms.jar"/>
+	<classpathentry kind="lib" path="lib2/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
